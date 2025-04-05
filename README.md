@@ -3,7 +3,7 @@ A proposta inicial do nosso projeto foi dada pelos nossos docentes do SENAI, tin
 
 No desenvolvimento deste projeto usamos nossos conhecimentos sobre HTML, CSS e PHP aprendidos durante as aulas, além disso, também utilizamos um pouco de JavaScript com auxílio de ChatGPT e Copilot. 
 
-Colaboradores:
+# Colaboradores:
 - [Julia Alves](https://github.com/imjuliz)
 - [Gabriel Palmieri](https://github.com/palmitex)
 - [Gustavo Torelli](https://github.com/GustavoTorelli)
